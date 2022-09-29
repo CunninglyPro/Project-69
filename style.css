@@ -1,0 +1,17 @@
+body {
+    background-color: azure;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+.mymaindiv {
+    background: linear-gradient(#36d1dc 0%, #ffc371 100%);
+}
+
+.mymaindiv img {
+    margin-top: 15px;
+}
